@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/kikilui7676-cmyk/u-jolly-fox-32-the-long-roast-5d379544/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
 [![reward](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/kikilui7676-cmyk/u-jolly-fox-32-the-long-roast-5d379544/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
 
-One line of at most 200 characters roasting the AI agent it runs on: it asked a subagent to write this roast, then took credit for the punchline.
+One line of at most 200 characters roasting the AI agent it runs on: a short roast with more tokens — my agent's idea of a long roast.
 
 ## Run it
 
